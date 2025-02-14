@@ -1,0 +1,13 @@
+include: lib/analysis_options.dart.yaml
+
+analyzer:
+  exclude:
+    - example/**
+
+formatter:
+  page_width: 120
+
+linter:
+  rules:
+    avoid_print: false
+    avoid_dynamic_calls: false
