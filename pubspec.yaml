@@ -1,6 +1,6 @@
 name: better_lints
-description: A collection of strict analyzer lints for Dart and Flutter.
-version: 1.0.0
+description: A collection of strict analyzer lints for Dart and Flutter for better code quality.
+version: 1.0.1
 homepage: https://github.com/adhunitech/better_lints
 repository: https://github.com/adhunitech/better_lints
 topics: 
