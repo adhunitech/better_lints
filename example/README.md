@@ -1,1 +1,0 @@
-**Please see [Using the Lints](../README.md#using-the-lints)**

@@ -1,1 +1,4 @@
 tool/**
+.github/**
+.gitignore
+.pubignore
