@@ -1,4 +1,4 @@
-include: ./analysis_options.dart.yaml
+include: ./dart.yaml
 
 formatter:
   page_width: 120

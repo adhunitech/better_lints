@@ -1,0 +1,14 @@
+name: better_lints_example
+description: Example for better_lints
+private: true
+version: 1.0.0
+homepage: https://github.com/adhunitech/better_lints
+repository: https://github.com/adhunitech/better_lints
+publish_to: none
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  better_lints: 
+    path: ../
