@@ -1,3 +1,8 @@
+## 2.0.0
+- Updated `analysis_options.dart`
+- Removed `flutter.yaml`
+- Removed `dart.yaml`
+
 ## 1.0.4
 - Added `example`
 - Fixed `flutter.yaml`

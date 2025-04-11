@@ -1,9 +1,0 @@
-include: lib/dart.yaml
-
-formatter:
-  page_width: 120
-
-linter:
-  rules:
-    avoid_print: false
-    avoid_dynamic_calls: false

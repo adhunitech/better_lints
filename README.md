@@ -29,5 +29,5 @@ include: package:better_lints/dart.yaml
 
 To use the Flutter ruleset:
 ```yaml
-include: package:better_lints/flutter.yaml
+include: package:better_lints/better_lints.dart
 ```
