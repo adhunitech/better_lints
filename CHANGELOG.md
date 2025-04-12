@@ -1,3 +1,7 @@
+## 2.0.2
+- Updated `dart.yaml`
+- Updated `flutter.yaml`
+
 ## 2.0.1
 - Updated `analysis_options.dart`
 

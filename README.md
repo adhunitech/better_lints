@@ -22,7 +22,14 @@ flutter pub add dev:better_lints
 
 Then, add a ruleset to your `analysis_options.yaml`. This package contains a Dart ruleset & a Flutter ruleset.
 
+
+To use the Dart specifc ruleset:
+```yaml
+include: package:better_lints/dart.yaml
+```
+
+
 To use the Flutter ruleset:
 ```yaml
-include: package:better_lints/analysis_options.yaml
+include: package:better_lints/flutter.yaml
 ```
