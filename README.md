@@ -24,5 +24,5 @@ Then, add a ruleset to your `analysis_options.yaml`. This package contains a Dar
 
 To use the Flutter ruleset:
 ```yaml
-include: package:better_lints/analysis_options.dart
+include: package:better_lints/analysis_options.yaml
 ```
