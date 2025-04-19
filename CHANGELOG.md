@@ -1,3 +1,6 @@
+## 2.0.3
+- Updated line length 120 to 80
+
 ## 2.0.2
 - Updated `dart.yaml`
 - Updated `flutter.yaml`

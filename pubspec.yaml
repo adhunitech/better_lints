@@ -1,6 +1,6 @@
 name: better_lints
 description: A curated set of lint rules for Dart and Flutter projects to ensure consistency, maintainability, and best practices.
-version: 2.0.2
+version: 2.0.3
 homepage: https://github.com/adhunitech/better_lints
 repository: https://github.com/adhunitech/better_lints
 topics: 
