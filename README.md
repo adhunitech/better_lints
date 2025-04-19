@@ -1,4 +1,4 @@
-# Better Lints
+# better_lints
 
 [![Better Lints Build](https://github.com/adhunitech/better_lints/workflows/Better%20Lints%20Build/badge.svg)](https://github.com/adhunitech/better_lints/actions?query=workflow%3A%22Better+Lints+Build%22)
 [![Pub Dev](https://img.shields.io/pub/v/better_lints)](https://pub.dev/packages/better_lints)
