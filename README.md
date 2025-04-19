@@ -9,7 +9,6 @@ A curated set of lint rules for Dart and Flutter projects to ensure consistency,
 ## ✨ Features
 - Enforces a consistent coding style.
 - Helps prevent common errors and anti-patterns.
-- Based on Dart's official `lints` and `flutter_lints`, with additional enhancements.
 - Easy integration into new and existing projects.
 
 ## 📦 Installation & Usage
