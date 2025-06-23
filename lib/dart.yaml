@@ -1,3 +1,6 @@
+formatter:
+  page_width: 120
+
 linter:
   rules:
     - always_declare_return_types
@@ -150,6 +153,7 @@ linter:
     - unnecessary_const
     - unnecessary_constructor_name
     - unnecessary_getters_setters
+    - unnecessary_ignore
     - unnecessary_lambdas
     - unnecessary_late
     - unnecessary_library_directive
@@ -174,6 +178,7 @@ linter:
     - use_if_null_to_convert_nulls_to_bools
     - use_is_even_rather_than_modulo
     - use_named_constants
+    - use_null_aware_elements
     - use_raw_strings
     - use_rethrow_when_possible
     - use_setters_to_change_properties
@@ -199,6 +204,7 @@ ignore:
   - discarded_futures
   - document_ignores
   - flutter_style_todos
+  - lines_longer_than_80_chars
   - no_default_cases
   - no_logic_in_create_state
   - omit_local_variable_types
