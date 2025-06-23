@@ -14,6 +14,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - uses: subosito/flutter-action@v2.18.0
+    - uses: subosito/flutter-action@v2.20.0
     - run: dart pub get
     - run: dart analyze
